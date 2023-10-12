@@ -1,0 +1,43 @@
+#Jayson {
+    background-color: #f0f0f0; /* Background color */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    width: 300px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+}
+
+#Jayson h1 {
+    font-size: 24px;
+    color: #333; /* Text color */
+}
+
+#Jayson h2 {
+    font-size: 18px;
+    color: #666; /* Subtitle color */
+}
+
+#Jayson p {
+    font-size: 16px;
+    color: #444; /* Paragraph text color */
+}
+
+#Jayson .social-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+#Jayson .social-links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+#Jayson .social-links a {
+    text-decoration: none;
+    color: #0077B5; /* LinkedIn link color */
+}
+
+#Jayson .social-links a:hover {
+    color: #333; /* Hover color */
+}
